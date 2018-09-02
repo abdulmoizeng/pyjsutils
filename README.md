@@ -8,9 +8,7 @@ Useful javascript utilities mapped in python.
 Installation:
 -------------
 
-.. code:: sh
-
-    pip install py-js-utils
+    Future Install : pip install py-js-utils (In progress at the moment)
 
 Features:
 ---------
